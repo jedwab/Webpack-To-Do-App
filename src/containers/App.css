@@ -25,7 +25,7 @@ input {
 }
 button {
     color: black;
-    border: 2px solid #EC007A;
+    border: 2px solid darkgreen;
     width: 40px;
     height: 20px;
     background-image: #f857a6;  /* fallback for old browsers */
